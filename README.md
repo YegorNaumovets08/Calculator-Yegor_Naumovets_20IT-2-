@@ -63,7 +63,6 @@ git clone https://github.com/YegorNaumovets08/Calculator-Yegor_Naumovets_20IT-2-
 
 Все методы были протестированы успешно
 
-![image](https://user-images.githubusercontent.com/105440430/202040480-276961df-1e5b-4011-b294-27da07eff9c3.png)
-
+![image](https://user-images.githubusercontent.com/105440430/202045879-959fc54c-e7a1-42e9-a0b8-11ee20e4613c.png)
 
 Для написания юнит-тестов был использован бесплатный инструмент модульного тестирования xUnit
